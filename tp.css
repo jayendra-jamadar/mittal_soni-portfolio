@@ -169,6 +169,7 @@ h3 {
   align-items: flex-start;
   flex-wrap: wrap;
   gap: 20px;
+  height: 80%;
 }
 
 .bodyofwork-work-item {
@@ -178,6 +179,7 @@ h3 {
   padding: 20px;
   text-align: center;
   box-sizing: border-box;
+  height: 100%;
 }
 
 .bodyofwork-work-item img {
